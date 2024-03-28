@@ -1,12 +1,22 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
-    --secondary: #34AD54;
-    --light: #EEF9FF;
-    --dark: #091E3E;
+    --primary: #000000;
+    --secondary: #ffffff;
+    --light: #000000;
+    --dark: #ffffff;
 }
-
-
+.bg{
+    background-color: #000000;
+}
+.cl{
+    color: #000000;
+}
+.bgl{
+    background-color: #0000000e;
+}
+.bgw{
+    background-color: #FFFFFF;
+}
 /*** Spinner ***/
 .spinner {
     width: 40px;
