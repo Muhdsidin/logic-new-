@@ -20,7 +20,14 @@
 .cw{
     color: #FFFFFF;
 }
-
+@media screen and (min-width: 600px) {
+    .connect-form {
+        margin-left: 11em;
+    }
+}
+.dropwidth{
+    width: 10em;
+}
 
 /*** Spinner ***/
 .spinner {
